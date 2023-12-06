@@ -1,4 +1,4 @@
-## Hi there, I'm Gaurav Chauhan 👋
+## Hi there !, I'm Gaurav Chauhan 👋
 
 
 Here are some ideas to get you started:
