@@ -5,7 +5,7 @@
 - 👀 I’m interested in ...  Web Development [Fullstack], UI/UX, 
 - 🌱 I’m currently learning ...  Node.js, express.js, Nest,Graphql,ScyllaDB, AWS, Kubernetes, Web Development [TypeScript]
 - 💞️ I’m looking to collaborate on the above Topics 👆.
-- 📫 How to reach me ... gc0300273@gmail.com mail me if u want to reach out to me.
+- 📫 How to reach me ... gauravchauhan5263@gmail.com mail me if u want to reach out to me.
 <!--- [Resume](https://docs.google.com/document/d/1k2diVQGIbUoK4Q7F3ghRxaSYhPiXOOif/edit?usp=sharing&ouid=110484841261256000877&rtpof=true&sd=true) -->
 
 ## Programming Nerd Jokes
